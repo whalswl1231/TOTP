@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Totp</string>
+    <string name="secret_key">Totp</string>
+    <string name="algorithm">SHA256</string>
+    <string name="digits">6</string>
+    <string name="period">30</string>
+    <string name="time_hint">지정되지 않은 경우 Native 에서 취득한 시간 사용</string>
+</resources>
